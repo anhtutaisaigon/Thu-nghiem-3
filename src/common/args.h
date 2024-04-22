@@ -20,7 +20,77 @@
 #include <string>
 #include <variant>
 #include <vector>
+#include <common/settings.h>
+#include <compat/compat.h>
+#include <sync.h>
+#include <util/chaintype.h>
+#include <util/fs.h>
 
+#include <iosfwd>
+#include <list>
+#include <map>
+#include <optional>
+#include <set>
+#include <stdint.h>
+#include <string>
+#include <variant>
+#include <vector>#include <common/settings.h>
+#include <compat/compat.h>
+#include <sync.h>
+#include <util/chaintype.h>
+#include <util/fs.h>
+
+#include <iosfwd>
+#include <list>
+#include <map>
+#include <optional>
+#include <set>
+#include <stdint.h>
+#include <string>
+#include <variant>
+#include <vector>#include <common/settings.h>
+#include <compat/compat.h>
+#include <sync.h>
+#include <util/chaintype.h>
+#include <util/fs.h>
+
+#include <iosfwd>
+#include <list>
+#include <map>
+#include <optional>
+#include <set>
+#include <stdint.h>
+#include <string>
+#include <variant>
+#include <vector>#include <common/settings.h>
+#include <compat/compat.h>
+#include <sync.h>
+#include <util/chaintype.h>
+#include <util/fs.h>
+
+#include <iosfwd>
+#include <list>
+#include <map>
+#include <optional>
+#include <set>
+#include <stdint.h>
+#include <string>
+#include <variant>
+#include <vector>#include <common/settings.h>
+#include <compat/compat.h>
+#include <sync.h>
+#include <util/chaintype.h>
+#include <util/fs.h>
+
+#include <iosfwd>
+#include <list>
+#include <map>
+#include <optional>
+#include <set>
+#include <stdint.h>
+#include <string>
+#include <variant>
+#include <vector>
 class ArgsManager;
 
 extern const char * const BITCOIN_CONF_FILENAME;
